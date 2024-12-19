@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    setlocale(0, "";
+    setlocale(0, "");
     // Задание 1
     cout << "int = " << sizeof(int) << " байт" << "\n";
     cout << "short int = " << sizeof(short int) << " байт" << "\n";
